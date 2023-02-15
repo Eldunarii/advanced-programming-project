@@ -1,5 +1,4 @@
-CREATE DATABASE mydatabase;
-USE mydatabase;
+USE your_mysql_database;
 
 CREATE TABLE inters (
   id INT NOT NULL AUTO_INCREMENT,
